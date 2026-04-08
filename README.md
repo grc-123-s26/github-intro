@@ -71,7 +71,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
     `README.md` should now be in green text.
 1. Commit the change with some meaningful description:
     ```
-    git commit -m "SOME MEANINGFUL DESCRIPTION"
+    git commit -m "SOME MEANINGFUL DESCRIPTION - describes what changes you made"
     ```
     > Make sure your description is in quotation marks. It should be a short phrase like "Added haiku to README." For now, do not use special characters like an exclamation mark. This can confuse your terminal.
 
