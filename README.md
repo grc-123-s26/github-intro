@@ -7,7 +7,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. Make sure you are logged into your GitHub account.
 1. Fork this repository (repo) by clicking the *fork* button.
  ![Image of the fork button on a GitHub repository](images/fork-screenshot.png)
-    > A fork is a *GitHub* concept, not a git concept. It's creating a copy of the repo in your online GitHub account, but it doesn't download the code to your computer. If you have used Replit before, this is similar to creating a fork there.
+    > A fork is a *GitHub* concept, not a git concept. It's creating a copy of the repository in your online GitHub account, but it doesn't download the code to your computer. If you have used Replit before, this is similar to creating a fork there.
 1. Keep this browser window open,  we will return to it in a moment.
 
 
