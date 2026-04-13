@@ -93,6 +93,8 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 1. If it completes without errors, return to your browser page with YOUR fork (your username should be at the top of the screen and in the URL) of the repo open. Refresh the page and you should see your new change to the README!
    > Note that the changes you have made so far apply ONLY to your fork, not to the original repoitory that I created. Your version is changed, but GitHub won't let you change mine without my permission. In the next section you will use a pull request (PR) to ask for permission to put your changes into my original code. You will be *requesting* that I *pull* your changes into my version.
 
+tape to CD lasery it pays to be amazingly flavory - BP
+
 
 # Create a Pull Request (PR)
 1. After refreshing the page for YOUR fork you should see a message stating that your branch is 1 commit ahead of `auberonedu/github-intro:main`. To the right of this there is a *Contribute# button. Click the *Contribute* button, and then click on the green *Open pull request* button.
